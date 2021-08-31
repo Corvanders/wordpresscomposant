@@ -1,0 +1,16 @@
+/*
+Theme Name: corvanders
+Theme URI: 
+Author: François Longueville
+Author URI: 
+Description: Ceci est une super thème wordpress
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+@import url(“../wordpressblog/style.css”);
+
+body{
+
+    color: blue;
+}
